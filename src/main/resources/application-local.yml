@@ -1,0 +1,10 @@
+server:
+  port: 8060
+elasticsearch:
+  host: totalsearch-es.homeplus.co.kr
+  port: 443
+  id: elastic
+  password: elastic1!
+
+
+
